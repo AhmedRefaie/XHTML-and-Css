@@ -1,0 +1,29 @@
+git config --global user.name "" //change name//
+git config --global user.email ""//change email//
+git config --list //to see some settings//
+clear //to get nice clean screen//
+git config user.email //for spcifec item to show//
+git help //open big help menu//
+pwd //locate your current location//
+cd ~ //get you to home//
+cd ..//take one step back//
+ls// lists all folders you can hop in//
+cd user//you enter your (user)//
+cd Desktop//to jump to desktop//
+cd Pizza// to choose this folder//
+git init //to start a project in pizza folder//
+git add .//to start making changes to the project//
+git commit -m "this is the html folder"//this where he will start to save and a remminder mess for you//
+git log//to show all your commits//
+git log --author="Name of person"//to get a specific commit of someone//
+git status //to show you what folders are commited and the ones not included//
+git diff//to know what happens in deffrance//
+git diff --staged
+git rm name //to delete files//
+git mv file name other name // to rename it //
+git mv file name folder/  //to move files//
+git commit -am "" //to edit files to skip the stagig area//
+git checkout -- file name //to get your old good project//
+ git reset HEAD nameof file //to remove it fromthe staging area//
+ git checkout 44f3edsr -- file name //get diff vertions//
+ 
