@@ -27,4 +27,4 @@ git checkout -- file name //to get your old good project//
  git reset HEAD nameof file //to remove it fromthe staging area//
  git checkout 44f3edsr -- file name //get diff vertions//
  git remote add nicname  folder name//tocreate a nick name for the github folder//
- 
+ git push -Revision.h githupC //to uplaod//
